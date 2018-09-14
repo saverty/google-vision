@@ -1,0 +1,12 @@
+{
+    "name": "steveaverty/medialibs-vision",
+    "authors": [
+        {
+            "name": "Steve Averty",
+            "email": "steve.averty1992@gmail.com"
+        }
+    ],
+    "require": {
+        "google/cloud-vision": "^0.16.0"
+    }
+}
