@@ -19,3 +19,4 @@ Analyse d'image avec l'**API Google Vision**.
 
 **Aller sur localhost:8000**
 
+![screenshot](https://github.com/saverty/google-vision/blob/master/assets/screenshot.png?raw=true)
